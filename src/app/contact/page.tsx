@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import contactImage from "@/components/images/contact.png"; // Ensure path is correct
+import contactImage from "@/components/images/contact.png"; 
 
 const ContactPage = () => {
   return (

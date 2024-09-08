@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import aboutImage from "@/components/images/about1.png"; // Ensure path is correct
+import aboutImage from "@/components/images/about1.png"; 
 
 const AboutPage = () => {
   return (
